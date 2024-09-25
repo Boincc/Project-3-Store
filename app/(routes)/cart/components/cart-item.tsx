@@ -2,7 +2,6 @@
 
 import Image from "next/image";
 import { X } from "lucide-react";
-import { toast } from "react-hot-toast";
 
 import IconButton from "@/components/ui/icon-button";
 import Currency from "@/components/ui/currency";
